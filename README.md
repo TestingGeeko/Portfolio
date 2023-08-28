@@ -43,7 +43,11 @@ Looking forward to connecting with fellow enthusiasts and like-minded individual
 ## Certificates
 - **Certificate Of Postgraduate Study - Software Tester**
 - **Certificate Software Testing Basics - Pracitcal Workshop**
-
+  
+## Projects
+- Test Cases Automation Project
+- Testing Practice Project
+  
 ## Technical books
 - Full Stack Testing: A Practical Guide for Delivering High Quality Software by Gayathri Mohan
 - Zawód tester by Radosław Smilgin
